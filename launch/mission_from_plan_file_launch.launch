@@ -1,0 +1,3 @@
+<launch>
+  <node name="mission_from_plan_file_node" pkg="autonomous_drone_package" type="mission_from_plan.py" output="screen"/>
+</launch>

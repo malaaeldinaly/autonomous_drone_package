@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/mohsin/catkin_ws/src/autonomous_drone_package/build/devel/setup.sh

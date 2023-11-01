@@ -1,0 +1,8 @@
+prefix=/home/mohsin/catkin_ws/src/autonomous_drone_package/build/devel
+
+Name: autonomous_drone_package
+Description: Description of autonomous_drone_package
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

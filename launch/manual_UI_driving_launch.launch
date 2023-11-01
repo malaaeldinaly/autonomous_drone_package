@@ -1,0 +1,4 @@
+<launch>
+    <node name="manual_UI_driving_node" pkg="autonomous_drone_package" type="manual_UI_driving.py" output="screen"/>
+  </launch>
+  
