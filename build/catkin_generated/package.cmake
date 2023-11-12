@@ -1,7 +1,7 @@
 set(_CATKIN_CURRENT_PACKAGE "autonomous_drone_package")
 set(autonomous_drone_package_VERSION "0.0.0")
 set(autonomous_drone_package_MAINTAINER "mohsin <mohsin@todo.todo>")
-set(autonomous_drone_package_PACKAGE_FORMAT "2")
+set(autonomous_drone_package_PACKAGE_FORMAT "3")
 set(autonomous_drone_package_BUILD_DEPENDS "mavros" "rospy")
 set(autonomous_drone_package_BUILD_EXPORT_DEPENDS "mavros" "rospy")
 set(autonomous_drone_package_BUILDTOOL_DEPENDS "catkin")

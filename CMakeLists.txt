@@ -203,3 +203,4 @@ include_directories(
 
 ## Add folders to be run by python nosetests
 # catkin_add_nosetests(test)
+set(PYTHON_EXECUTABLE autonomous_drone_py_env/bin/python3.10)

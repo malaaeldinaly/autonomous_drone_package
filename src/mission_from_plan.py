@@ -1,4 +1,9 @@
-#!/environments/autonomous-drone-env/bin/python3.10
+#!/usr/bin/env python3.10
+
+##prints out the path to the currently running Python interpreter executable file. 
+import sys
+print(sys.executable)
+
 
 import asyncio
 import json
