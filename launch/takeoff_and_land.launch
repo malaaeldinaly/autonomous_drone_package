@@ -1,0 +1,4 @@
+<launch>
+    <node name="takeoff_and_land_node" pkg="autonomous_drone_package" type="takeoff_and_land.py" output="screen"/>
+  </launch>
+  
